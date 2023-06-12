@@ -2,7 +2,7 @@ var lista = [];
 estatus = false;
 
 function preload(){
-    img = loadImage("prueba.webp");
+    img = loadImage("dog_cat.jpg");
 }
 
 function setup(){
