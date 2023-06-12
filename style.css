@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+.btn{
+    width: 100%;
+    font-size: 25px;
+}
+
+#detec{
+    background: red;
+    color: white;
+    font-size: 20px;
+    width:fit-content;
+    margin: 0 auto;
+}
+
+canvas{
+    border-radius: 20%;
+    box-shadow: 15px 13px 5px #7e7d7d;
+}
