@@ -18,7 +18,7 @@ function draw(){
         for (var contador = 0; contador<lista.length; contador = contador + 1){
             noFill();
             stroke("red");
-            strokeWeight(5);
+            strokeWeight(3);
             var objeto = lista[contador];
             rect(objeto.x, objeto.y, objeto.width, objeto.height);
             fill("black");
