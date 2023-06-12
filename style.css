@@ -6,6 +6,7 @@ body{
 .btn{
     width: 100%;
     font-size: 25px;
+    margin: 0;
 }
 
 #detec{
@@ -13,10 +14,11 @@ body{
     color: white;
     font-size: 20px;
     width:fit-content;
-    margin: 0 auto;
+    margin: 0 15px;
+    padding: 5px;
 }
 
 canvas{
-    border-radius: 20%;
-    box-shadow: 15px 13px 5px #7e7d7d;
+    border-radius: 10%;
+    box-shadow: 10px 10px 15px #7e7d7d;
 }
